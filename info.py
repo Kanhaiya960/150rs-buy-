@@ -67,9 +67,9 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'MovieRitik2') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Ritikmove')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ritikmove')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Ritikmove')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+bt6gXsnD6vs2YWRl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+bt6gXsnD6vs2YWRl')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+bt6gXsnD6vs2YWRl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Ritikmove') # Support Chat Link Without https:// or @
 
 # True Or False
